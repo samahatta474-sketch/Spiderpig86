@@ -6,7 +6,9 @@ Artificial Intelligence, Software Development, Web Development, and Cybersecurit
 I'm continuously learning new technologies and building projects to strengthen my technical skills.
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+<p align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
 
 <h2>⚡ About Me</h2>
 
@@ -59,4 +61,3 @@ I'm continuously learning new technologies and building projects to strengthen m
 Feel free to explore my repositories and connect with me through GitHub.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" alt="GitHub Stats" />
