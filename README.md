@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Mariam</h2>
+<h2>🐱 Hey 👋, I'm Mariam</h2>
 
 <p>
 I'm a software Engineering student at Al-Aqsa University with a strong interest in
